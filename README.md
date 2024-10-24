@@ -7,7 +7,7 @@
 <div align="center">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoZocarato&repo=github-readme-stats&theme=buefy" /> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoZocarato&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoZocarato&layout=compact&langs_count=7"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoZocarato&layout=compact&langs_count=7&theme=radical"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoZocarato"/> -->
     
    <div style="display: inline_block"><br>
